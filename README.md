@@ -1,11 +1,16 @@
 # AMERİKAN KAHVESİ TADIM TESTİ
+James Hoffmann Ekim 2023'te ABD'de yaklaşık 4.000 kişiyle canlı yayında tadım testi yaptı. Cometeer tarafından iletilen 4 kahve hakkında izleyiciler bir anket doldurdular.
 
 
 # VERİ KAYNAĞI
-Aşağıdaki linkten yönergeler izlenebilir
+Ham veri setinde 4042 satır; 56 sütun (id hariç) bulunmaktadır. 
+Grafikler oluşturulmadan önce kullanılacak değişkenlere göre ana veri seti oluşturulmuştur.
+
+
+Ham veri setine erişmek için aşağıdaki linkten yönergeler izlenebilir
 https://github.com/rfordatascience/tidytuesday/blob/master/data/2024/2024-05-14/readme.md
 
-Veri kaynağından veri seti alındıktan sonra yapıldıktan sonra baz veri seti hazırlanmıştır.
+Veri kaynağından veri seti alındıktan sonra yapıldıktan sonra ana veri seti hazırlanmıştır.
 
 ```{r}
 coffee <- coffee_survey_rn
@@ -198,8 +203,7 @@ dev.off()
 ![image](https://github.com/zulalcelik/Amerikan-Kahvesi-Tadim-Testi/assets/83671332/c69b587f-a66a-4e31-9c7e-ba22542c9f21)
 
 
-Grafikte Erkek katılımcıların büyük oranı açık kavrulmuş kahveyi tercih ederken; 
-Kadın katılımcıların açık kavrulmuş kahveyi en az tercih ettikleri koyu ve orta kavrulmuş kahveyi tercih ettikleri gözlemlenmektedir.
+Erkek katılımcıların büyük oranı açık kavrulmuş kahveyi tercih ederken; Kadın katılımcıların açık kavrulmuş kahveyi en az tercih ettikleri, orta kavrulmuş kahveyi daha çok tercih ettikleri gözlemlenmektedir.
 
 # Grafik 3 - Yaşa Göre Kavrulmuş Kahve Tercihi
 ```{r}
@@ -289,8 +293,9 @@ dev.off()
 
 ![image](https://github.com/zulalcelik/Amerikan-Kahvesi-Tadim-Testi/assets/83671332/3a2cd0d9-295d-4b6f-80c3-c66f75cba3a1)
 
-Grafikte katılımcıların büyük bir çoğunluğunun 25-34 yaş aralığında olduğu görülmektedir. 
-Bununla birlikte katılımcılar içerisinde Açık Kavrulmuş Kahve daha çok tercih edilmektedir.
+Katılımcıların büyük bir çoğunluğunun 25-34 yaş aralığında olduğu gözlemlenmektedir. 
+Bununla birlikte katılımcılar içerisinde açık kavrulmuş hahve daha çok tercih edilmektedir.
+
 
 # Grafik 4 - Katılımcı Profillerinin Kahve Tercihleri
 ```{r}
