@@ -1,0 +1,3524 @@
+age,favorite,roast_level,prefer_overall,gender
+<18 years old,Pourover,Light,Coffee B,Other (please specify)
+25-34 years old,Regular drip coffee,Medium,Coffee B,Female
+45-54 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Iced coffee,Light,Coffee D,Male
+45-54 years old,Pourover,Dark,Coffee A,Male
+35-44 years old,Cappuccino,Blonde,Coffee A,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee D,Male
+45-54 years old,Iced coffee,Medium,Coffee D,Male
+35-44 years old,Americano,Light,Coffee D,Female
+35-44 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Cortado,Dark,Coffee B,Male
+35-44 years old,Cold brew,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee A,Male
+45-54 years old,Americano,Dark,Coffee B,Female
+25-34 years old,Cappuccino,Light,Coffee D,Male
+45-54 years old,Espresso,Dark,Coffee B,Male
+35-44 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cold brew,Medium,Coffee B,Female
+18-24 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Espresso,Nordic,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Americano,Dark,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee A,Female
+25-34 years old,Iced coffee,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Americano,Light,Coffee C,Male
+45-54 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Cold brew,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee A,Male
+35-44 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Mocha,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee B,Female
+18-24 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Latte,Dark,Coffee C,Female
+35-44 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Dark,Coffee B,Male
+25-34 years old,Espresso,Nordic,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+35-44 years old,Cold brew,Medium,Coffee C,Female
+25-34 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee B,Male
+25-34 years old,Americano,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee D,Male
+55-64 years old,Americano,French,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cold brew,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+35-44 years old,Cortado,Blonde,Coffee A,Male
+55-64 years old,Regular drip coffee,Dark,Coffee B,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Italian,Coffee A,Male
+25-34 years old,Mocha,Medium,Coffee B,Non-binary
+35-44 years old,Iced coffee,Light,Coffee A,Male
+45-54 years old,Espresso,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+45-54 years old,Espresso,Light,Coffee A,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Prefer not to say
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+>65 years old,Regular drip coffee,French,Coffee B,Male
+35-44 years old,Iced coffee,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Cortado,Light,Coffee B,Female
+25-34 years old,Americano,Light,Coffee C,Male
+25-34 years old,Mocha,Dark,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee C,Female
+18-24 years old,Mocha,Medium,Coffee C,Male
+25-34 years old,Other,Dark,Coffee D,Male
+35-44 years old,Latte,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Cortado,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Other,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Iced coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee C,Male
+18-24 years old,Regular drip coffee,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee C,Female
+25-34 years old,Americano,Light,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+18-24 years old,Latte,Light,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee B,Male
+18-24 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Female
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee D,Non-binary
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Mocha,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee A,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+45-54 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Latte,Light,Coffee B,Male
+45-54 years old,Pourover,Medium,Coffee D,Male
+<18 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Espresso,Light,Coffee D,Male
+45-54 years old,Mocha,Medium,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+55-64 years old,Latte,Dark,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee D,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee B,Female
+45-54 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cold brew,Medium,Coffee B,Non-binary
+45-54 years old,Americano,Medium,Coffee C,Female
+25-34 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Mocha,Light,Coffee C,Male
+25-34 years old,Espresso,Medium,Coffee B,Male
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee C,Female
+25-34 years old,Iced coffee,Light,Coffee B,Male
+45-54 years old,Cold brew,Medium,Coffee B,Male
+>65 years old,Regular drip coffee,Medium,Coffee A,Female
+25-34 years old,Iced coffee,Light,Coffee D,Male
+45-54 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Pourover,Dark,Coffee C,Male
+35-44 years old,Americano,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee A,Male
+45-54 years old,Regular drip coffee,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Other,Light,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee C,Male
+18-24 years old,Cappuccino,Light,Coffee C,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee A,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Espresso,Nordic,Coffee D,Male
+18-24 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+45-54 years old,Pourover,Medium,Coffee D,Male
+>65 years old,Latte,Medium,Coffee B,Male
+45-54 years old,Regular drip coffee,Dark,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Cortado,Medium,Coffee D,Male
+18-24 years old,Mocha,Medium,Coffee A,Male
+25-34 years old,Cortado,Italian,Coffee D,Female
+25-34 years old,Iced coffee,Medium,Coffee A,Female
+55-64 years old,Pourover,Dark,Coffee A,Female
+35-44 years old,Espresso,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Other,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee C,Female
+25-34 years old,Cappuccino,Blonde,Coffee A,Male
+55-64 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee C,Female
+35-44 years old,Regular drip coffee,Medium,Coffee B,Female
+18-24 years old,Latte,Medium,Coffee D,Female
+35-44 years old,Iced coffee,Dark,Coffee A,Female
+25-34 years old,Latte,Light,Coffee B,Male
+35-44 years old,Iced coffee,Medium,Coffee D,Male
+45-54 years old,Cold brew,Medium,Coffee D,Female
+18-24 years old,Espresso,Light,Coffee A,Male
+18-24 years old,Iced coffee,Light,Coffee B,Female
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Regular drip coffee,Nordic,Coffee A,Male
+55-64 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+45-54 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Light,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Americano,Dark,Coffee D,Female
+25-34 years old,Blended drink (e.g. Frappuccino),Dark,Coffee B,Non-binary
+55-64 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee C,Male
+25-34 years old,Cappuccino,Dark,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Latte,Dark,Coffee B,Female
+18-24 years old,Latte,Dark,Coffee C,Other (please specify)
+25-34 years old,Latte,Light,Coffee C,Male
+18-24 years old,Regular drip coffee,Light,Coffee C,Male
+45-54 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Other,Medium,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+45-54 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Latte,Dark,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Female
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+35-44 years old,Iced coffee,Dark,Coffee B,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Pourover,Nordic,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee D,Female
+55-64 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee C,Prefer not to say
+55-64 years old,Mocha,Dark,Coffee C,Female
+45-54 years old,Pourover,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Latte,Light,Coffee C,Male
+25-34 years old,Mocha,Medium,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+35-44 years old,Cortado,Medium,Coffee B,Male
+55-64 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Other,Light,Coffee B,Male
+55-64 years old,Cappuccino,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Mocha,Light,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Dark,Coffee D,Male
+45-54 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Mocha,Light,Coffee A,Female
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+45-54 years old,Latte,Medium,Coffee C,Male
+45-54 years old,Pourover,Medium,Coffee A,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+18-24 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Americano,Light,Coffee B,Male
+18-24 years old,Cappuccino,Medium,Coffee D,Male
+>65 years old,Regular drip coffee,Dark,Coffee C,Prefer not to say
+35-44 years old,Pourover,Medium,Coffee C,Male
+18-24 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+18-24 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+35-44 years old,Latte,Light,Coffee A,Female
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Americano,Light,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Americano,Medium,Coffee C,Male
+55-64 years old,Cold brew,Medium,Coffee D,Male
+18-24 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee D,Female
+25-34 years old,Regular drip coffee,Medium,Coffee B,Female
+18-24 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+<18 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Latte,Light,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+25-34 years old,Iced coffee,Medium,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee B,Female
+18-24 years old,Latte,Light,Coffee D,Female
+18-24 years old,Espresso,Dark,Coffee D,Non-binary
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Cold brew,Medium,Coffee B,Prefer not to say
+35-44 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Latte,Light,Coffee A,Female
+35-44 years old,Cappuccino,Dark,Coffee C,Non-binary
+45-54 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Cortado,Blonde,Coffee D,Male
+35-44 years old,Iced coffee,Dark,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Espresso,Nordic,Coffee C,Male
+55-64 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Americano,Medium,Coffee B,Female
+55-64 years old,Latte,Medium,Coffee A,Male
+55-64 years old,Pourover,Medium,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Mocha,Dark,Coffee A,Male
+25-34 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Cortado,Light,Coffee D,Male
+45-54 years old,Latte,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Latte,Dark,Coffee B,Male
+18-24 years old,Cold brew,Medium,Coffee C,Male
+18-24 years old,Americano,Light,Coffee D,Female
+35-44 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee C,Female
+25-34 years old,Latte,Light,Coffee C,Female
+25-34 years old,Latte,Dark,Coffee A,Female
+18-24 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Iced coffee,Blonde,Coffee C,Female
+35-44 years old,Iced coffee,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Latte,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee A,Female
+>65 years old,Espresso,Medium,Coffee B,Female
+25-34 years old,Iced coffee,Blonde,Coffee D,Female
+35-44 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+35-44 years old,Other,Medium,Coffee D,Female
+35-44 years old,Cortado,Light,Coffee B,Male
+25-34 years old,Espresso,Nordic,Coffee D,Male
+18-24 years old,Cold brew,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee B,Other (please specify)
+18-24 years old,Latte,Dark,Coffee D,Other (please specify)
+35-44 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Female
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Mocha,Medium,Coffee A,Female
+55-64 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Dark,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+18-24 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Cappuccino,Light,Coffee A,Female
+25-34 years old,Latte,Nordic,Coffee C,Non-binary
+35-44 years old,Other,Light,Coffee B,Male
+45-54 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee D,Female
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Latte,Medium,Coffee A,Male
+18-24 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Dark,Coffee B,Female
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+18-24 years old,Cappuccino,Light,Coffee C,Prefer not to say
+35-44 years old,Latte,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Female
+45-54 years old,Regular drip coffee,Light,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Americano,Dark,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee C,Female
+35-44 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+35-44 years old,Espresso,Light,Coffee B,Male
+25-34 years old,Other,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Espresso,Nordic,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+45-54 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Cold brew,Medium,Coffee D,Female
+18-24 years old,Other,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Mocha,Medium,Coffee C,Male
+25-34 years old,Latte,Blonde,Coffee B,Female
+>65 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Iced coffee,Light,Coffee C,Male
+25-34 years old,Iced coffee,Nordic,Coffee A,Male
+18-24 years old,Americano,Medium,Coffee B,Male
+18-24 years old,Iced coffee,Light,Coffee B,Female
+35-44 years old,Latte,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee A,Non-binary
+25-34 years old,Latte,Light,Coffee A,Male
+18-24 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Mocha,Dark,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee A,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Espresso,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Non-binary
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Other,Medium,Coffee C,Male
+18-24 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Americano,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Cortado,Dark,Coffee B,Male
+35-44 years old,Iced coffee,Medium,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee A,Male
+35-44 years old,Espresso,Dark,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Iced coffee,Light,Coffee C,Female
+18-24 years old,Espresso,Light,Coffee A,Male
+45-54 years old,Regular drip coffee,Light,Coffee D,Male
+<18 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Latte,Medium,Coffee B,Male
+45-54 years old,Latte,Light,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee D,Non-binary
+25-34 years old,Americano,Light,Coffee A,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Regular drip coffee,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Nordic,Coffee D,Male
+18-24 years old,Other,Medium,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+45-54 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee A,Non-binary
+35-44 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee A,Female
+35-44 years old,Iced coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee B,Female
+35-44 years old,Pourover,Medium,Coffee D,Female
+25-34 years old,Latte,Dark,Coffee C,Male
+45-54 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee A,Male
+18-24 years old,Regular drip coffee,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Other,Medium,Coffee C,Non-binary
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee D,Non-binary
+25-34 years old,Latte,Medium,Coffee C,Male
+45-54 years old,Espresso,Light,Coffee A,Female
+25-34 years old,Latte,Blonde,Coffee A,Female
+55-64 years old,Latte,Medium,Coffee C,Female
+18-24 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Iced coffee,Dark,Coffee B,Male
+25-34 years old,Iced coffee,Medium,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee B,Female
+35-44 years old,Regular drip coffee,Medium,Coffee C,Female
+35-44 years old,Cortado,Light,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+18-24 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+18-24 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Light,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee D,Male
+35-44 years old,Espresso,Nordic,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee B,Male
+45-54 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee C,Male
+25-34 years old,Cold brew,Dark,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Mocha,Dark,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee C,Female
+45-54 years old,Regular drip coffee,Light,Coffee D,Male
+45-54 years old,Pourover,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Blonde,Coffee D,Male
+18-24 years old,Latte,Light,Coffee D,Female
+18-24 years old,Latte,Medium,Coffee C,Female
+18-24 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+25-34 years old,Regular drip coffee,Dark,Coffee C,Female
+25-34 years old,Cold brew,Light,Coffee C,Non-binary
+35-44 years old,Latte,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee B,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Americano,Dark,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Iced coffee,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Regular drip coffee,Dark,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+18-24 years old,Cold brew,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+18-24 years old,Cappuccino,Light,Coffee B,Male
+35-44 years old,Other,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+18-24 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+45-54 years old,Regular drip coffee,Medium,Coffee D,Male
+18-24 years old,Mocha,Medium,Coffee A,Female
+35-44 years old,Cold brew,Blonde,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee C,Male
+18-24 years old,Iced coffee,Light,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee B,Male
+55-64 years old,Latte,French,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+55-64 years old,Regular drip coffee,Dark,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Other,Blonde,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Other,Light,Coffee D,Male
+18-24 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Non-binary
+35-44 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Espresso,Nordic,Coffee D,Male
+45-54 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Cappuccino,Dark,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee D,Female
+18-24 years old,Cappuccino,Medium,Coffee D,Female
+25-34 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+>65 years old,Cappuccino,Medium,Coffee A,Male
+45-54 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+>65 years old,Latte,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+18-24 years old,Espresso,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Female
+55-64 years old,Espresso,Dark,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Prefer not to say
+25-34 years old,Cappuccino,Dark,Coffee A,Prefer not to say
+35-44 years old,Americano,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Other,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Latte,Blonde,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee A,Non-binary
+18-24 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Non-binary
+45-54 years old,Latte,Medium,Coffee B,Male
+45-54 years old,Regular drip coffee,Dark,Coffee B,Male
+18-24 years old,Espresso,Light,Coffee C,Male
+35-44 years old,Cortado,Italian,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee D,Non-binary
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Other,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Latte,Dark,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+45-54 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee D,Male
+25-34 years old,Cortado,Dark,Coffee B,Female
+25-34 years old,Espresso,Light,Coffee A,Male
+18-24 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Nordic,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Americano,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+>65 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Nordic,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+18-24 years old,Cold brew,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Cappuccino,Dark,Coffee A,Female
+18-24 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+45-54 years old,Latte,Dark,Coffee B,Female
+45-54 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cappuccino,Italian,Coffee B,Male
+25-34 years old,Other,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee A,Female
+45-54 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee C,Male
+55-64 years old,Pourover,Dark,Coffee B,Female
+35-44 years old,Pourover,Medium,Coffee B,Male
+18-24 years old,Cappuccino,Blonde,Coffee B,Non-binary
+18-24 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,French,Coffee B,Non-binary
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Latte,Blonde,Coffee D,Male
+25-34 years old,Other,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+45-54 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Latte,Medium,Coffee B,Female
+55-64 years old,Regular drip coffee,Dark,Coffee A,Female
+25-34 years old,Espresso,Light,Coffee D,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee B,Female
+35-44 years old,Latte,Medium,Coffee B,Female
+18-24 years old,Cortado,Medium,Coffee D,Female
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+18-24 years old,Other,Light,Coffee A,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Espresso,Light,Coffee A,Female
+45-54 years old,Regular drip coffee,Light,Coffee D,Male
+>65 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Light,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Espresso,Nordic,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Non-binary
+35-44 years old,Latte,Italian,Coffee C,Male
+35-44 years old,Cappuccino,Medium,Coffee D,Female
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Latte,Medium,Coffee B,Female
+18-24 years old,Regular drip coffee,Medium,Coffee A,Male
+35-44 years old,Espresso,Dark,Coffee B,Male
+25-34 years old,Regular drip coffee,Dark,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cortado,Light,Coffee B,Non-binary
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee A,Male
+35-44 years old,Americano,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee C,Male
+45-54 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee B,Other (please specify)
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Other,Dark,Coffee D,Female
+25-34 years old,Americano,Dark,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Americano,Dark,Coffee B,Male
+35-44 years old,Latte,Light,Coffee C,Female
+45-54 years old,Mocha,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee C,Female
+35-44 years old,Latte,Light,Coffee A,Male
+25-34 years old,Mocha,Light,Coffee A,Male
+35-44 years old,Latte,Light,Coffee B,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Blonde,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee A,Non-binary
+35-44 years old,Espresso,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+18-24 years old,Cappuccino,Light,Coffee B,Non-binary
+25-34 years old,Cold brew,Medium,Coffee A,Female
+35-44 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee C,Female
+18-24 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+55-64 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+25-34 years old,Latte,Light,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee C,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee C,Male
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Iced coffee,Dark,Coffee B,Male
+18-24 years old,Pourover,Nordic,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Americano,Medium,Coffee C,Male
+45-54 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee B,Female
+55-64 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Espresso,Medium,Coffee A,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Female
+55-64 years old,Espresso,Medium,Coffee B,Female
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Cold brew,Light,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Cold brew,Light,Coffee C,Male
+18-24 years old,Cortado,Medium,Coffee B,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Female
+25-34 years old,Pourover,Medium,Coffee C,Non-binary
+35-44 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Espresso,Medium,Coffee B,Male
+35-44 years old,Americano,Medium,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Non-binary
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Iced coffee,Dark,Coffee C,Female
+18-24 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee D,Other (please specify)
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee C,Female
+18-24 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Espresso,Medium,Coffee C,Male
+35-44 years old,Cortado,Dark,Coffee A,Female
+25-34 years old,Espresso,Medium,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee D,Male
+35-44 years old,Americano,Light,Coffee A,Male
+35-44 years old,Latte,Light,Coffee D,Male
+55-64 years old,Blended drink (e.g. Frappuccino),Dark,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+35-44 years old,Americano,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee D,Male
+18-24 years old,Cortado,Light,Coffee A,Female
+45-54 years old,Latte,Light,Coffee D,Female
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+18-24 years old,Latte,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Iced coffee,Blonde,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee D,Male
+55-64 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Latte,Light,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Cappuccino,Nordic,Coffee A,Female
+45-54 years old,Pourover,Light,Coffee D,Female
+18-24 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee B,Male
+18-24 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Latte,Dark,Coffee C,Male
+55-64 years old,Espresso,Dark,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Pourover,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Pourover,Dark,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee C,Non-binary
+18-24 years old,Americano,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+>65 years old,Cappuccino,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee B,Non-binary
+25-34 years old,Pourover,Light,Coffee C,Female
+25-34 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee B,Female
+25-34 years old,Cappuccino,Blonde,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Other,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee C,Non-binary
+35-44 years old,Regular drip coffee,Light,Coffee C,Male
+35-44 years old,Pourover,Nordic,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Blonde,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Cappuccino,Light,Coffee D,Female
+35-44 years old,Cappuccino,Light,Coffee D,Non-binary
+18-24 years old,Americano,Dark,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Female
+35-44 years old,Cappuccino,Light,Coffee D,Non-binary
+18-24 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cold brew,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Regular drip coffee,Nordic,Coffee A,Male
+25-34 years old,Other,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Non-binary
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+55-64 years old,Cappuccino,Medium,Coffee B,Female
+35-44 years old,Americano,Light,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+45-54 years old,Pourover,Medium,Coffee B,Female
+25-34 years old,Cortado,Dark,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Latte,Light,Coffee D,Male
+45-54 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Cortado,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee C,Non-binary
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Latte,Light,Coffee D,Female
+18-24 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+>65 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee D,Male
+35-44 years old,Cold brew,Dark,Coffee C,Male
+18-24 years old,Cold brew,Dark,Coffee B,Female
+25-34 years old,Espresso,Medium,Coffee C,Male
+18-24 years old,Mocha,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Latte,Light,Coffee C,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+>65 years old,Pourover,Nordic,Coffee D,Female
+55-64 years old,Iced coffee,Dark,Coffee C,Male
+25-34 years old,Cold brew,Medium,Coffee A,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Other,Medium,Coffee C,Female
+45-54 years old,Cappuccino,Medium,Coffee D,Female
+18-24 years old,Latte,Medium,Coffee B,Female
+45-54 years old,Latte,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+18-24 years old,Iced coffee,Dark,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cold brew,Light,Coffee A,Male
+25-34 years old,Other,Light,Coffee A,Male
+35-44 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee A,Male
+35-44 years old,Mocha,Light,Coffee B,Female
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Pourover,French,Coffee C,Male
+35-44 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee D,Female
+18-24 years old,Regular drip coffee,Light,Coffee A,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee B,Male
+45-54 years old,Latte,Light,Coffee B,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Other,Light,Coffee A,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Iced coffee,Light,Coffee D,Prefer not to say
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Other,Light,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Other,Light,Coffee D,Female
+18-24 years old,Iced coffee,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+45-54 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee D,Non-binary
+25-34 years old,Latte,Medium,Coffee B,Male
+45-54 years old,Pourover,Light,Coffee C,Male
+55-64 years old,Regular drip coffee,Dark,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+18-24 years old,Pourover,Medium,Coffee C,Female
+35-44 years old,Latte,Light,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Mocha,Italian,Coffee D,Female
+55-64 years old,Espresso,Dark,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+45-54 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee A,Non-binary
+25-34 years old,Other,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee C,Female
+25-34 years old,Americano,Medium,Coffee D,Male
+55-64 years old,Regular drip coffee,Medium,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee B,Female
+45-54 years old,Latte,Medium,Coffee C,Male
+18-24 years old,Latte,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+45-54 years old,Mocha,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee B,Male
+18-24 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Mocha,Dark,Coffee C,Male
+45-54 years old,Iced coffee,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Other,Medium,Coffee D,Female
+35-44 years old,Cortado,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Female
+55-64 years old,Cortado,Medium,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee B,Female
+55-64 years old,Regular drip coffee,Dark,Coffee A,Male
+>65 years old,Pourover,Light,Coffee C,Female
+55-64 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee C,Male
+55-64 years old,Regular drip coffee,Medium,Coffee A,Female
+45-54 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Medium,Coffee B,Female
+55-64 years old,Pourover,Medium,Coffee B,Male
+55-64 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Espresso,Medium,Coffee C,Male
+35-44 years old,Latte,Light,Coffee B,Female
+35-44 years old,Latte,Medium,Coffee C,Male
+>65 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Dark,Coffee D,Female
+35-44 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Cold brew,Dark,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Americano,Light,Coffee A,Male
+18-24 years old,Espresso,Light,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Regular drip coffee,Medium,Coffee B,Female
+45-54 years old,Latte,Medium,Coffee B,Female
+55-64 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Latte,Italian,Coffee B,Female
+55-64 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Female
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Espresso,Medium,Coffee A,Male
+25-34 years old,Americano,Medium,Coffee D,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Light,Coffee C,Male
+18-24 years old,Mocha,Dark,Coffee B,Male
+35-44 years old,Cortado,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Dark,Coffee C,Male
+25-34 years old,Latte,Dark,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+45-54 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Americano,Dark,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee D,Female
+35-44 years old,Regular drip coffee,Medium,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee A,Female
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Latte,Dark,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Latte,Blonde,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee A,Male
+55-64 years old,Regular drip coffee,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Regular drip coffee,Light,Coffee D,Female
+35-44 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+35-44 years old,Regular drip coffee,Dark,Coffee B,Male
+55-64 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Male
+45-54 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Cortado,Light,Coffee A,Male
+18-24 years old,Cortado,Light,Coffee D,Male
+>65 years old,Regular drip coffee,Medium,Coffee B,Female
+>65 years old,Cappuccino,Dark,Coffee C,Female
+18-24 years old,Pourover,Medium,Coffee A,Male
+35-44 years old,Americano,Light,Coffee D,Other (please specify)
+45-54 years old,Americano,Medium,Coffee A,Male
+18-24 years old,Americano,Medium,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee C,Female
+18-24 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Mocha,Medium,Coffee C,Male
+25-34 years old,Americano,Light,Coffee D,Female
+18-24 years old,Iced coffee,Medium,Coffee B,Male
+18-24 years old,Iced coffee,Medium,Coffee A,Male
+35-44 years old,Cappuccino,Medium,Coffee B,Female
+35-44 years old,Cappuccino,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+35-44 years old,Pourover,Dark,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee C,Male
+18-24 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+55-64 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Mocha,French,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee C,Female
+25-34 years old,Latte,Blonde,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee B,Non-binary
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Iced coffee,Light,Coffee D,Female
+45-54 years old,Americano,Light,Coffee C,Female
+55-64 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Other,Medium,Coffee C,Male
+55-64 years old,Regular drip coffee,French,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Light,Coffee A,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Dark,Coffee C,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+18-24 years old,Regular drip coffee,Light,Coffee D,Female
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Americano,Light,Coffee A,Female
+25-34 years old,Espresso,Blonde,Coffee B,Male
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Espresso,Nordic,Coffee A,Male
+35-44 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee A,Female
+25-34 years old,Espresso,Dark,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Latte,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee D,Female
+45-54 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Cold brew,Medium,Coffee B,Female
+25-34 years old,Cold brew,Dark,Coffee A,Female
+>65 years old,Latte,Medium,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Mocha,Medium,Coffee B,Male
+35-44 years old,Cappuccino,Medium,Coffee B,Male
+45-54 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Mocha,Dark,Coffee B,Male
+35-44 years old,Espresso,Medium,Coffee A,Non-binary
+35-44 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee C,Female
+35-44 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Blonde,Coffee C,Female
+25-34 years old,Cappuccino,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee A,Female
+25-34 years old,Espresso,Light,Coffee A,Male
+45-54 years old,Espresso,Blonde,Coffee D,Female
+35-44 years old,Other,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee C,Female
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Iced coffee,Dark,Coffee C,Female
+25-34 years old,Iced coffee,Light,Coffee B,Male
+25-34 years old,Americano,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+25-34 years old,Pourover,French,Coffee D,Male
+55-64 years old,Latte,Dark,Coffee C,Female
+45-54 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee A,Female
+45-54 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Americano,Light,Coffee D,Female
+18-24 years old,Other,Light,Coffee B,Male
+<18 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Pourover,Dark,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Americano,Light,Coffee A,Female
+35-44 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Male
+45-54 years old,Espresso,Medium,Coffee B,Female
+>65 years old,Regular drip coffee,French,Coffee D,Female
+35-44 years old,Americano,Medium,Coffee C,Prefer not to say
+25-34 years old,Cappuccino,Light,Coffee B,Male
+45-54 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+35-44 years old,Latte,Nordic,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Americano,Dark,Coffee B,Male
+25-34 years old,Mocha,Medium,Coffee A,Male
+35-44 years old,Latte,Dark,Coffee A,Female
+25-34 years old,Cortado,Medium,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee B,Male
+45-54 years old,Cappuccino,Medium,Coffee C,Male
+55-64 years old,Regular drip coffee,Light,Coffee B,Female
+25-34 years old,Espresso,Nordic,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee B,Male
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee A,Female
+35-44 years old,Regular drip coffee,Dark,Coffee B,Female
+45-54 years old,Blended drink (e.g. Frappuccino),Light,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Light,Coffee B,Female
+45-54 years old,Latte,Medium,Coffee A,Male
+55-64 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee B,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Americano,Medium,Coffee A,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Light,Coffee B,Female
+45-54 years old,Espresso,Dark,Coffee C,Male
+45-54 years old,Espresso,French,Coffee C,Male
+55-64 years old,Regular drip coffee,Medium,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee A,Female
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+18-24 years old,Mocha,Medium,Coffee B,Male
+35-44 years old,Pourover,Nordic,Coffee D,Male
+35-44 years old,Regular drip coffee,Dark,Coffee B,Male
+45-54 years old,Latte,Dark,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Blonde,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+45-54 years old,Cappuccino,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Light,Coffee C,Female
+25-34 years old,Americano,Light,Coffee D,Female
+18-24 years old,Blended drink (e.g. Frappuccino),Light,Coffee D,Female
+35-44 years old,Cortado,Light,Coffee B,Male
+18-24 years old,Iced coffee,Blonde,Coffee D,Male
+25-34 years old,Mocha,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+45-54 years old,Cappuccino,Dark,Coffee B,Female
+25-34 years old,Latte,Dark,Coffee D,Male
+>65 years old,Latte,Blonde,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Americano,Light,Coffee B,Male
+25-34 years old,Latte,Blonde,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee C,Female
+25-34 years old,Other,Light,Coffee A,Female
+25-34 years old,Latte,Light,Coffee C,Female
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+18-24 years old,Latte,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Latte,Light,Coffee A,Female
+35-44 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+18-24 years old,Espresso,Medium,Coffee D,Male
+55-64 years old,Espresso,Dark,Coffee C,Male
+35-44 years old,Cappuccino,Light,Coffee A,Female
+35-44 years old,Latte,Light,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee A,Female
+35-44 years old,Cold brew,Blonde,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Iced coffee,Blonde,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Regular drip coffee,Medium,Coffee A,Male
+>65 years old,Iced coffee,Medium,Coffee C,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Regular drip coffee,Medium,Coffee B,Female
+18-24 years old,Regular drip coffee,Dark,Coffee D,Male
+55-64 years old,Regular drip coffee,French,Coffee B,Male
+25-34 years old,Americano,Light,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee C,Male
+>65 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Non-binary
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cold brew,Medium,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee A,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee B,Male
+45-54 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Americano,Medium,Coffee C,Female
+35-44 years old,Latte,Light,Coffee D,Female
+45-54 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Cold brew,Medium,Coffee A,Male
+25-34 years old,Pourover,French,Coffee B,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Americano,Light,Coffee A,Male
+35-44 years old,Americano,Dark,Coffee B,Male
+18-24 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Latte,Light,Coffee A,Female
+35-44 years old,Cold brew,Medium,Coffee D,Female
+35-44 years old,Latte,Light,Coffee C,Female
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Americano,Medium,Coffee C,Female
+35-44 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee C,Female
+25-34 years old,Regular drip coffee,Dark,Coffee A,Male
+45-54 years old,Espresso,Italian,Coffee A,Female
+25-34 years old,Mocha,Light,Coffee A,Male
+35-44 years old,Mocha,Light,Coffee A,Male
+25-34 years old,Other,Medium,Coffee C,Male
+35-44 years old,Pourover,Medium,Coffee C,Female
+25-34 years old,Latte,Light,Coffee D,Male
+18-24 years old,Cappuccino,Dark,Coffee C,Female
+18-24 years old,Regular drip coffee,Dark,Coffee D,Male
+25-34 years old,Cold brew,Medium,Coffee D,Female
+25-34 years old,Cold brew,Medium,Coffee D,Female
+18-24 years old,Iced coffee,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Light,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Regular drip coffee,Dark,Coffee B,Male
+35-44 years old,Americano,Medium,Coffee D,Female
+18-24 years old,Latte,Medium,Coffee B,Male
+18-24 years old,Americano,Medium,Coffee B,Female
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Cold brew,Light,Coffee D,Female
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+45-54 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cold brew,Light,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee D,Female
+25-34 years old,Latte,Dark,Coffee C,Female
+55-64 years old,Pourover,Light,Coffee B,Male
+18-24 years old,Pourover,Light,Coffee D,Non-binary
+35-44 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+18-24 years old,Pourover,Nordic,Coffee B,Male
+25-34 years old,Mocha,Dark,Coffee B,Male
+18-24 years old,Iced coffee,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+>65 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Dark,Coffee D,Male
+35-44 years old,Latte,Light,Coffee C,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Non-binary
+35-44 years old,Mocha,Blonde,Coffee D,Female
+35-44 years old,Cold brew,Medium,Coffee C,Male
+35-44 years old,Latte,Light,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Mocha,Medium,Coffee C,Female
+35-44 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+35-44 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Cold brew,Light,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Dark,Coffee C,Female
+35-44 years old,Latte,Dark,Coffee C,Non-binary
+25-34 years old,Cold brew,Medium,Coffee B,Non-binary
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+18-24 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Americano,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Cold brew,Light,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee C,Prefer not to say
+25-34 years old,Iced coffee,Light,Coffee A,Male
+35-44 years old,Cortado,Medium,Coffee A,Female
+55-64 years old,Pourover,Medium,Coffee B,Male
+55-64 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Regular drip coffee,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee C,Non-binary
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee C,Female
+55-64 years old,Pourover,Italian,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Female
+18-24 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+>65 years old,Espresso,Blonde,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Iced coffee,Light,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee C,Male
+>65 years old,Regular drip coffee,Dark,Coffee B,Male
+35-44 years old,Mocha,Blonde,Coffee A,Female
+55-64 years old,Latte,Medium,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee A,Male
+45-54 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Female
+25-34 years old,Americano,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Dark,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Americano,Dark,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Cold brew,Blonde,Coffee A,Female
+25-34 years old,Iced coffee,Medium,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Iced coffee,Medium,Coffee D,Male
+25-34 years old,Americano,Light,Coffee A,Female
+25-34 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Cortado,Medium,Coffee A,Female
+18-24 years old,Iced coffee,Light,Coffee D,Female
+25-34 years old,Cappuccino,Light,Coffee A,Female
+45-54 years old,Latte,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Other (please specify)
+25-34 years old,Latte,Medium,Coffee B,Male
+18-24 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+<18 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Other,Blonde,Coffee B,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Blonde,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee B,Male
+18-24 years old,Latte,Light,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee C,Male
+18-24 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Other,Medium,Coffee D,Female
+25-34 years old,Mocha,Blonde,Coffee D,Male
+18-24 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee D,Female
+35-44 years old,Espresso,Medium,Coffee B,Male
+18-24 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Mocha,Light,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+>65 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+35-44 years old,Regular drip coffee,Medium,Coffee B,Prefer not to say
+55-64 years old,Regular drip coffee,Light,Coffee A,Male
+45-54 years old,Cold brew,French,Coffee C,Female
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Americano,Light,Coffee A,Female
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Non-binary
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee B,Male
+18-24 years old,Iced coffee,Blonde,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Cold brew,Light,Coffee C,Female
+25-34 years old,Espresso,Light,Coffee A,Male
+45-54 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Iced coffee,Blonde,Coffee C,Female
+25-34 years old,Latte,Medium,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee D,Male
+55-64 years old,Latte,Light,Coffee C,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Medium,Coffee A,Female
+45-54 years old,Regular drip coffee,Dark,Coffee B,Male
+25-34 years old,Other,Light,Coffee A,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Americano,Dark,Coffee C,Male
+25-34 years old,Latte,Italian,Coffee C,Female
+25-34 years old,Cold brew,Medium,Coffee B,Male
+35-44 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Espresso,Nordic,Coffee D,Male
+35-44 years old,Americano,Light,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+55-64 years old,Pourover,Medium,Coffee A,Male
+35-44 years old,Americano,Dark,Coffee B,Male
+35-44 years old,Cold brew,Dark,Coffee C,Female
+25-34 years old,Espresso,Light,Coffee D,Female
+35-44 years old,Pourover,Medium,Coffee C,Female
+35-44 years old,Latte,Dark,Coffee B,Female
+35-44 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Regular drip coffee,Light,Coffee C,Female
+25-34 years old,Cold brew,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+18-24 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee B,Female
+35-44 years old,Cortado,Medium,Coffee B,Male
+45-54 years old,Cortado,Dark,Coffee C,Female
+25-34 years old,Regular drip coffee,Dark,Coffee D,Male
+25-34 years old,Latte,Light,Coffee B,Non-binary
+18-24 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cortado,Nordic,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Cold brew,Dark,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+55-64 years old,Latte,Dark,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee B,Male
+55-64 years old,Regular drip coffee,Medium,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee B,Non-binary
+25-34 years old,Other,Light,Coffee B,Male
+>65 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Espresso,Medium,Coffee C,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee D,Female
+35-44 years old,Iced coffee,Dark,Coffee B,Female
+45-54 years old,Mocha,Light,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Regular drip coffee,Dark,Coffee D,Female
+25-34 years old,Latte,Dark,Coffee A,Female
+35-44 years old,Latte,Medium,Coffee A,Male
+55-64 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee B,Female
+25-34 years old,Americano,Dark,Coffee C,Male
+18-24 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Nordic,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee A,Female
+18-24 years old,Iced coffee,Dark,Coffee D,Male
+45-54 years old,Cappuccino,Dark,Coffee A,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+45-54 years old,Cappuccino,Medium,Coffee D,Male
+18-24 years old,Cortado,Dark,Coffee B,Male
+35-44 years old,Espresso,Nordic,Coffee A,Male
+25-34 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee D,Female
+35-44 years old,Mocha,Dark,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Other,Medium,Coffee D,Female
+18-24 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Iced coffee,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+18-24 years old,Iced coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Americano,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee B,Male
+55-64 years old,Mocha,Medium,Coffee B,Female
+18-24 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Espresso,Light,Coffee B,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee A,Female
+35-44 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Cold brew,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Iced coffee,Medium,Coffee B,Male
+35-44 years old,Latte,Dark,Coffee B,Female
+55-64 years old,Regular drip coffee,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Other,Light,Coffee D,Non-binary
+35-44 years old,Americano,Medium,Coffee A,Male
+35-44 years old,Americano,Dark,Coffee B,Male
+25-34 years old,Mocha,Light,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Espresso,Nordic,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee D,Female
+18-24 years old,Espresso,Medium,Coffee D,Male
+18-24 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Other,Medium,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+25-34 years old,Latte,Blonde,Coffee C,Male
+35-44 years old,Cortado,Medium,Coffee C,Female
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+45-54 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee A,Female
+55-64 years old,Latte,Light,Coffee A,Male
+25-34 years old,Cortado,Dark,Coffee D,Male
+45-54 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Pourover,Dark,Coffee D,Female
+55-64 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Americano,Dark,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Dark,Coffee C,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,French,Coffee C,Non-binary
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Latte,Dark,Coffee C,Male
+18-24 years old,Latte,Light,Coffee C,Female
+25-34 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee C,Female
+45-54 years old,Regular drip coffee,Dark,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Male
+45-54 years old,Latte,Dark,Coffee D,Female
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee B,Female
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+45-54 years old,Pourover,Medium,Coffee C,Male
+45-54 years old,Latte,Dark,Coffee A,Female
+25-34 years old,Pourover,Medium,Coffee B,Male
+45-54 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Iced coffee,Dark,Coffee C,Male
+>65 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Iced coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Mocha,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Espresso,Medium,Coffee A,Male
+25-34 years old,Iced coffee,Medium,Coffee B,Prefer not to say
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Female
+35-44 years old,Iced coffee,Light,Coffee A,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Non-binary
+18-24 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+45-54 years old,Cappuccino,Dark,Coffee C,Non-binary
+25-34 years old,Latte,Medium,Coffee C,Prefer not to say
+45-54 years old,Cappuccino,Light,Coffee C,Female
+>65 years old,Pourover,Medium,Coffee C,Female
+35-44 years old,Americano,Light,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Espresso,Medium,Coffee A,Male
+25-34 years old,Latte,Dark,Coffee D,Male
+35-44 years old,Americano,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Pourover,Light,Coffee B,Female
+25-34 years old,Cortado,Light,Coffee C,Female
+45-54 years old,Regular drip coffee,Light,Coffee C,Male
+35-44 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+35-44 years old,Cold brew,Light,Coffee D,Female
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+45-54 years old,Pourover,Medium,Coffee C,Male
+45-54 years old,Americano,Dark,Coffee A,Female
+35-44 years old,Cappuccino,Medium,Coffee B,Male
+>65 years old,Regular drip coffee,Medium,Coffee A,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee D,Male
+25-34 years old,Espresso,Dark,Coffee B,Male
+35-44 years old,Iced coffee,Medium,Coffee A,Female
+25-34 years old,Cappuccino,Dark,Coffee A,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cold brew,Light,Coffee D,Male
+35-44 years old,Cold brew,Medium,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Prefer not to say
+25-34 years old,Regular drip coffee,Light,Coffee A,Female
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+35-44 years old,Mocha,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Iced coffee,Blonde,Coffee B,Female
+25-34 years old,Cold brew,Medium,Coffee A,Male
+25-34 years old,Mocha,Medium,Coffee B,Male
+25-34 years old,Other,Medium,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee A,Female
+25-34 years old,Pourover,Medium,Coffee B,Male
+18-24 years old,Latte,Light,Coffee A,Female
+25-34 years old,Latte,Light,Coffee C,Non-binary
+>65 years old,Latte,Dark,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+55-64 years old,Latte,Dark,Coffee A,Female
+25-34 years old,Pourover,Medium,Coffee B,Male
+45-54 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+45-54 years old,Pourover,Nordic,Coffee A,Male
+18-24 years old,Latte,Light,Coffee C,Male
+45-54 years old,Regular drip coffee,Medium,Coffee A,Male
+55-64 years old,Latte,Dark,Coffee C,Male
+55-64 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Mocha,Light,Coffee A,Female
+>65 years old,Other,Light,Coffee D,Male
+45-54 years old,Latte,Light,Coffee A,Female
+35-44 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Male
+18-24 years old,Pourover,Nordic,Coffee D,Male
+25-34 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Iced coffee,Light,Coffee C,Male
+45-54 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+>65 years old,Cappuccino,Light,Coffee A,Male
+45-54 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Cold brew,Medium,Coffee C,Female
+45-54 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Medium,Coffee D,Male
+>65 years old,Other,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee A,Non-binary
+35-44 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Americano,Dark,Coffee C,Male
+18-24 years old,Regular drip coffee,Medium,Coffee C,Female
+45-54 years old,Americano,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee B,Male
+45-54 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Americano,Light,Coffee B,Male
+35-44 years old,Latte,Light,Coffee C,Female
+<18 years old,Regular drip coffee,Light,Coffee A,Male
+>65 years old,Mocha,Medium,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee B,Male
+18-24 years old,Iced coffee,Light,Coffee D,Female
+55-64 years old,Regular drip coffee,Dark,Coffee B,Female
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+>65 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+18-24 years old,Regular drip coffee,Light,Coffee D,Other (please specify)
+>65 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Latte,Light,Coffee A,Female
+35-44 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Cappuccino,Dark,Coffee D,Female
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Other,Medium,Coffee A,Male
+18-24 years old,Other,Medium,Coffee B,Male
+25-34 years old,Cortado,Dark,Coffee D,Female
+25-34 years old,Cold brew,Dark,Coffee B,Male
+25-34 years old,Mocha,Dark,Coffee C,Female
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Mocha,Medium,Coffee C,Male
+>65 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+25-34 years old,Latte,Dark,Coffee D,Female
+>65 years old,Cappuccino,Italian,Coffee A,Male
+25-34 years old,Regular drip coffee,Dark,Coffee B,Male
+45-54 years old,Cappuccino,Medium,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+35-44 years old,Pourover,Blonde,Coffee C,Male
+55-64 years old,Mocha,Medium,Coffee D,Female
+25-34 years old,Espresso,Light,Coffee D,Female
+45-54 years old,Iced coffee,Light,Coffee C,Male
+55-64 years old,Other,Medium,Coffee D,Male
+18-24 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+18-24 years old,Iced coffee,Light,Coffee C,Male
+18-24 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee B,Female
+35-44 years old,Regular drip coffee,Blonde,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+45-54 years old,Americano,Light,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee C,Female
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee A,Male
+25-34 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Iced coffee,Light,Coffee A,Female
+25-34 years old,Latte,Light,Coffee D,Male
+35-44 years old,Mocha,Light,Coffee B,Male
+18-24 years old,Cold brew,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+45-54 years old,Regular drip coffee,Medium,Coffee B,Female
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee C,Female
+25-34 years old,Americano,Dark,Coffee B,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+45-54 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee C,Prefer not to say
+18-24 years old,Pourover,Medium,Coffee C,Male
+45-54 years old,Pourover,Dark,Coffee C,Female
+35-44 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Cappuccino,Dark,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee A,Female
+25-34 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Cortado,Medium,Coffee A,Female
+35-44 years old,Americano,Dark,Coffee D,Female
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Iced coffee,Nordic,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Espresso,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+18-24 years old,Pourover,Light,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+55-64 years old,Pourover,Dark,Coffee D,Male
+35-44 years old,Iced coffee,Light,Coffee D,Male
+35-44 years old,Americano,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee B,Non-binary
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+25-34 years old,Latte,Light,Coffee C,Male
+55-64 years old,Latte,Light,Coffee A,Male
+55-64 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee B,Female
+25-34 years old,Latte,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee C,Male
+18-24 years old,Regular drip coffee,Light,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee C,Female
+25-34 years old,Americano,Medium,Coffee D,Male
+35-44 years old,Americano,Dark,Coffee C,Female
+>65 years old,Pourover,Dark,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Cold brew,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Iced coffee,Dark,Coffee A,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cold brew,Blonde,Coffee C,Female
+25-34 years old,Pourover,Nordic,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee C,Female
+18-24 years old,Other,Medium,Coffee B,Male
+35-44 years old,Regular drip coffee,Blonde,Coffee C,Male
+35-44 years old,Espresso,Nordic,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee B,Male
+18-24 years old,Latte,Light,Coffee B,Male
+45-54 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Americano,Light,Coffee C,Male
+25-34 years old,Iced coffee,Italian,Coffee C,Female
+25-34 years old,Mocha,Medium,Coffee C,Female
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+18-24 years old,Mocha,Dark,Coffee A,Non-binary
+35-44 years old,Pourover,Dark,Coffee B,Male
+45-54 years old,Americano,Dark,Coffee B,Female
+45-54 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee C,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee B,Male
+35-44 years old,Regular drip coffee,Blonde,Coffee D,Female
+18-24 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Male
+35-44 years old,Cappuccino,Medium,Coffee D,Male
+35-44 years old,Americano,Light,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Regular drip coffee,Medium,Coffee D,Non-binary
+>65 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Other,Medium,Coffee C,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee D,Male
+45-54 years old,Iced coffee,Light,Coffee B,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Female
+45-54 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Female
+35-44 years old,Espresso,Light,Coffee A,Male
+18-24 years old,Americano,Light,Coffee D,Female
+25-34 years old,Mocha,Medium,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Non-binary
+>65 years old,Pourover,Light,Coffee B,Female
+25-34 years old,Espresso,Medium,Coffee B,Male
+45-54 years old,Latte,French,Coffee B,Female
+35-44 years old,Cold brew,Medium,Coffee C,Female
+25-34 years old,Latte,Dark,Coffee A,Male
+18-24 years old,Pourover,Dark,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Mocha,Light,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee A,Male
+45-54 years old,Cappuccino,Dark,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+45-54 years old,Latte,Light,Coffee D,Male
+18-24 years old,Mocha,Light,Coffee B,Male
+55-64 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Light,Coffee D,Male
+45-54 years old,Latte,Dark,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee B,Female
+18-24 years old,Mocha,Dark,Coffee D,Male
+25-34 years old,Americano,Light,Coffee A,Male
+18-24 years old,Cortado,Medium,Coffee C,Non-binary
+35-44 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Other,Light,Coffee A,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Cold brew,Dark,Coffee B,Male
+>65 years old,Pourover,Medium,Coffee A,Male
+45-54 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee C,Male
+45-54 years old,Latte,Dark,Coffee C,Female
+35-44 years old,Pourover,Nordic,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Iced coffee,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+>65 years old,Other,Medium,Coffee A,Female
+45-54 years old,Espresso,Medium,Coffee D,Male
+>65 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+35-44 years old,Latte,Light,Coffee D,Male
+18-24 years old,Regular drip coffee,Dark,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee C,Male
+18-24 years old,Cortado,Dark,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+18-24 years old,Other,Dark,Coffee C,Female
+35-44 years old,Pourover,Nordic,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee B,Male
+55-64 years old,Cortado,Medium,Coffee D,Female
+>65 years old,Other,Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee C,Prefer not to say
+45-54 years old,Cappuccino,Medium,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee B,Female
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+45-54 years old,Cappuccino,Medium,Coffee C,Female
+35-44 years old,Regular drip coffee,Medium,Coffee D,Female
+25-34 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+55-64 years old,Regular drip coffee,Dark,Coffee A,Male
+55-64 years old,Cappuccino,Light,Coffee C,Male
+25-34 years old,Latte,Light,Coffee D,Female
+45-54 years old,Americano,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Dark,Coffee C,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+35-44 years old,Other,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Female
+45-54 years old,Pourover,Dark,Coffee C,Female
+25-34 years old,Iced coffee,Medium,Coffee A,Female
+35-44 years old,Latte,Light,Coffee C,Male
+18-24 years old,Cortado,Dark,Coffee B,Male
+18-24 years old,Pourover,Dark,Coffee B,Male
+45-54 years old,Cortado,Light,Coffee C,Male
+18-24 years old,Pourover,Medium,Coffee A,Male
+55-64 years old,Cortado,Medium,Coffee A,Male
+18-24 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee B,Female
+<18 years old,Latte,Dark,Coffee C,Female
+35-44 years old,Cappuccino,Italian,Coffee C,Male
+25-34 years old,Americano,Light,Coffee D,Male
+45-54 years old,Iced coffee,Light,Coffee D,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+<18 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee A,Male
+45-54 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee D,Female
+25-34 years old,Mocha,Dark,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+18-24 years old,Cappuccino,Medium,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+55-64 years old,Americano,Medium,Coffee B,Female
+35-44 years old,Mocha,Light,Coffee D,Male
+55-64 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee A,Male
+35-44 years old,Mocha,Dark,Coffee A,Female
+>65 years old,Pourover,Medium,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Mocha,Medium,Coffee D,Female
+35-44 years old,Espresso,Dark,Coffee B,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Cappuccino,Dark,Coffee A,Female
+35-44 years old,Cortado,Light,Coffee D,Prefer not to say
+25-34 years old,Cortado,Light,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Other,Light,Coffee C,Prefer not to say
+35-44 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Other,Light,Coffee A,Female
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+55-64 years old,Regular drip coffee,Light,Coffee C,Male
+35-44 years old,Other,Light,Coffee D,Male
+35-44 years old,Pourover,Dark,Coffee B,Female
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+45-54 years old,Mocha,Light,Coffee C,Female
+25-34 years old,Americano,Medium,Coffee C,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+45-54 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Female
+<18 years old,Latte,Light,Coffee A,Female
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Non-binary
+35-44 years old,Blended drink (e.g. Frappuccino),Blonde,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Americano,Dark,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+45-54 years old,Other,Dark,Coffee C,Male
+25-34 years old,Iced coffee,Light,Coffee D,Male
+>65 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Americano,Light,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Pourover,Dark,Coffee B,Female
+55-64 years old,Regular drip coffee,French,Coffee C,Male
+35-44 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee B,Male
+55-64 years old,Cappuccino,Medium,Coffee C,Female
+25-34 years old,Regular drip coffee,Medium,Coffee A,Male
+45-54 years old,Pourover,Medium,Coffee C,Female
+45-54 years old,Regular drip coffee,Medium,Coffee B,Female
+18-24 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Mocha,Medium,Coffee D,Female
+55-64 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+35-44 years old,Cappuccino,Medium,Coffee A,Female
+35-44 years old,Latte,Blonde,Coffee C,Female
+45-54 years old,Mocha,Medium,Coffee B,Female
+35-44 years old,Americano,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Cortado,Dark,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+18-24 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Americano,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cold brew,Medium,Coffee D,Male
+35-44 years old,Mocha,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Americano,Dark,Coffee B,Female
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Other,Light,Coffee B,Male
+25-34 years old,Espresso,Italian,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee B,Female
+35-44 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Mocha,Medium,Coffee D,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Cold brew,Light,Coffee D,Male
+35-44 years old,Americano,Light,Coffee C,Male
+35-44 years old,Espresso,Medium,Coffee A,Male
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Male
+45-54 years old,Latte,Dark,Coffee B,Male
+55-64 years old,Cappuccino,Dark,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+55-64 years old,Americano,Medium,Coffee A,Female
+35-44 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee A,Prefer not to say
+35-44 years old,Latte,Dark,Coffee B,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Female
+45-54 years old,Pourover,Light,Coffee B,Male
+55-64 years old,Americano,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+35-44 years old,Espresso,Medium,Coffee A,Male
+25-34 years old,Latte,Light,Coffee B,Female
+18-24 years old,Latte,Medium,Coffee B,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee B,Male
+18-24 years old,Cappuccino,Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Latte,Dark,Coffee C,Female
+18-24 years old,Cappuccino,Light,Coffee A,Male
+18-24 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Americano,Light,Coffee D,Non-binary
+18-24 years old,Americano,Light,Coffee A,Male
+35-44 years old,Americano,Dark,Coffee B,Female
+35-44 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Espresso,Dark,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee B,Female
+35-44 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+45-54 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Female
+35-44 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Cortado,Dark,Coffee C,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+>65 years old,Americano,Medium,Coffee C,Male
+45-54 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Regular drip coffee,Dark,Coffee B,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Other,Medium,Coffee C,Male
+35-44 years old,Americano,Light,Coffee C,Male
+55-64 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cortado,Dark,Coffee D,Male
+25-34 years old,Other,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Light,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+35-44 years old,Americano,Light,Coffee B,Female
+35-44 years old,Latte,Medium,Coffee D,Male
+18-24 years old,Espresso,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee B,Male
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Male
+18-24 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Female
+35-44 years old,Cappuccino,Medium,Coffee D,Non-binary
+45-54 years old,Pourover,Medium,Coffee D,Female
+35-44 years old,Regular drip coffee,Dark,Coffee B,Female
+45-54 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Iced coffee,Medium,Coffee C,Male
+35-44 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+45-54 years old,Pourover,Medium,Coffee B,Male
+55-64 years old,Cappuccino,Dark,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Blended drink (e.g. Frappuccino),Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cold brew,Medium,Coffee B,Male
+25-34 years old,Iced coffee,Light,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Latte,Light,Coffee C,Female
+>65 years old,Espresso,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee D,Female
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Pourover,Nordic,Coffee A,Male
+45-54 years old,Latte,Light,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee D,Non-binary
+35-44 years old,Latte,Medium,Coffee B,Male
+18-24 years old,Pourover,Medium,Coffee A,Male
+35-44 years old,Americano,Medium,Coffee C,Female
+25-34 years old,Iced coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Mocha,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Non-binary
+35-44 years old,Cappuccino,Dark,Coffee C,Female
+35-44 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Light,Coffee A,Female
+45-54 years old,Pourover,Light,Coffee C,Female
+45-54 years old,Espresso,Dark,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+35-44 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee C,Male
+35-44 years old,Americano,Light,Coffee A,Female
+25-34 years old,Mocha,Blonde,Coffee A,Male
+35-44 years old,Iced coffee,Dark,Coffee B,Female
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee C,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Cappuccino,Dark,Coffee B,Female
+25-34 years old,Cortado,Medium,Coffee D,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Female
+45-54 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Other,Medium,Coffee C,Female
+55-64 years old,Latte,Blonde,Coffee B,Female
+25-34 years old,Espresso,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Medium,Coffee D,Male
+>65 years old,Other,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee C,Male
+35-44 years old,Americano,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Mocha,Medium,Coffee C,Female
+55-64 years old,Pourover,Dark,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+45-54 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Cortado,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Espresso,Medium,Coffee B,Male
+18-24 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Female
+35-44 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Regular drip coffee,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Female
+18-24 years old,Regular drip coffee,Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee A,Male
+45-54 years old,Cortado,Medium,Coffee C,Male
+18-24 years old,Cold brew,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+35-44 years old,Other,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Non-binary
+35-44 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+35-44 years old,Regular drip coffee,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee B,Female
+18-24 years old,Cortado,Medium,Coffee C,Male
+18-24 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Americano,Medium,Coffee C,Female
+35-44 years old,Mocha,Light,Coffee D,Male
+18-24 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee D,Female
+25-34 years old,Cortado,Light,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Americano,Medium,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Dark,Coffee A,Female
+45-54 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+35-44 years old,Cortado,Medium,Coffee A,Male
+45-54 years old,Americano,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Cold brew,Light,Coffee C,Male
+25-34 years old,Latte,Light,Coffee D,Male
+35-44 years old,Other,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cold brew,Medium,Coffee B,Male
+45-54 years old,Mocha,Dark,Coffee A,Female
+18-24 years old,Cortado,Light,Coffee D,Male
+45-54 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Non-binary
+55-64 years old,Cappuccino,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee A,Male
+18-24 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+18-24 years old,Americano,Dark,Coffee C,Female
+18-24 years old,Cortado,Light,Coffee D,Male
+18-24 years old,Other,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Female
+18-24 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Other,Medium,Coffee D,Male
+18-24 years old,Iced coffee,Light,Coffee A,Male
+45-54 years old,Other,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Espresso,Light,Coffee A,Male
+35-44 years old,Regular drip coffee,Light,Coffee C,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Mocha,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Pourover,Nordic,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Cappuccino,Dark,Coffee C,Non-binary
+25-34 years old,Cortado,Light,Coffee A,Non-binary
+25-34 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Cappuccino,Light,Coffee A,Male
+45-54 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee B,Female
+45-54 years old,Latte,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+45-54 years old,Cortado,Medium,Coffee A,Male
+18-24 years old,Mocha,Medium,Coffee C,Male
+25-34 years old,Latte,Dark,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+<18 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+45-54 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee C,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+18-24 years old,Cold brew,Dark,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+25-34 years old,Iced coffee,Blonde,Coffee A,Male
+45-54 years old,Regular drip coffee,Dark,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee A,Male
+45-54 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Cold brew,Medium,Coffee C,Male
+<18 years old,Latte,Light,Coffee D,Female
+25-34 years old,Mocha,Medium,Coffee B,Male
+45-54 years old,Cortado,Dark,Coffee B,Female
+45-54 years old,Cold brew,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Latte,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Other,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee B,Male
+35-44 years old,Americano,Medium,Coffee D,Prefer not to say
+35-44 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+>65 years old,Cortado,Medium,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee B,Female
+45-54 years old,Espresso,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Other,Light,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee A,Female
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Iced coffee,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee A,Female
+18-24 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Cappuccino,Dark,Coffee B,Male
+45-54 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Female
+35-44 years old,Latte,Light,Coffee C,Female
+18-24 years old,Blended drink (e.g. Frappuccino),Medium,Coffee B,Female
+55-64 years old,Other,Medium,Coffee B,Female
+25-34 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Espresso,Medium,Coffee D,Male
+55-64 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Pourover,Dark,Coffee D,Male
+25-34 years old,Other,Medium,Coffee C,Male
+35-44 years old,Cappuccino,Light,Coffee D,Non-binary
+35-44 years old,Latte,Medium,Coffee A,Male
+45-54 years old,Americano,Medium,Coffee B,Male
+35-44 years old,Cortado,Medium,Coffee C,Male
+35-44 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+35-44 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Latte,Light,Coffee B,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+55-64 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Other,Light,Coffee D,Male
+25-34 years old,Cold brew,Medium,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee A,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Dark,Coffee B,Female
+18-24 years old,Americano,Light,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Medium,Coffee B,Female
+25-34 years old,Espresso,Dark,Coffee B,Male
+55-64 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Prefer not to say
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Espresso,Medium,Coffee A,Male
+18-24 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee A,Male
+18-24 years old,Espresso,Medium,Coffee C,Male
+18-24 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Male
+35-44 years old,Iced coffee,Medium,Coffee A,Male
+35-44 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cold brew,Blonde,Coffee B,Male
+35-44 years old,Cappuccino,Dark,Coffee B,Male
+25-34 years old,Regular drip coffee,Medium,Coffee B,Male
+35-44 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Mocha,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee A,Female
+25-34 years old,Cortado,Medium,Coffee C,Female
+25-34 years old,Americano,Medium,Coffee B,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cold brew,Dark,Coffee B,Male
+35-44 years old,Iced coffee,Medium,Coffee B,Male
+35-44 years old,Cappuccino,Medium,Coffee C,Male
+35-44 years old,Cappuccino,Medium,Coffee D,Female
+35-44 years old,Americano,Dark,Coffee C,Female
+18-24 years old,Iced coffee,Dark,Coffee C,Female
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+35-44 years old,Mocha,Medium,Coffee C,Female
+18-24 years old,Cold brew,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Espresso,Dark,Coffee B,Male
+18-24 years old,Latte,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee A,Male
+35-44 years old,Latte,Light,Coffee C,Male
+18-24 years old,Espresso,Medium,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee C,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Light,Coffee B,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Latte,Dark,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Americano,Dark,Coffee B,Female
+35-44 years old,Americano,Medium,Coffee C,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee C,Male
+18-24 years old,Mocha,Medium,Coffee B,Male
+35-44 years old,Latte,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee D,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+25-34 years old,Cortado,Light,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Cold brew,Medium,Coffee B,Female
+18-24 years old,Latte,Medium,Coffee C,Female
+55-64 years old,Other,Dark,Coffee B,Male
+55-64 years old,Mocha,Medium,Coffee B,Female
+25-34 years old,Americano,Light,Coffee D,Female
+>65 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Other,Light,Coffee B,Female
+25-34 years old,Cold brew,Light,Coffee D,Male
+25-34 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Dark,Coffee D,Male
+55-64 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Americano,Medium,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee C,Non-binary
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Cold brew,Medium,Coffee B,Female
+35-44 years old,Mocha,Medium,Coffee A,Male
+25-34 years old,Latte,Light,Coffee A,Non-binary
+25-34 years old,Pourover,Medium,Coffee C,Non-binary
+35-44 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Blended drink (e.g. Frappuccino),French,Coffee C,Male
+55-64 years old,Latte,Light,Coffee B,Male
+25-34 years old,Iced coffee,Medium,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Mocha,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Iced coffee,Medium,Coffee B,Male
+18-24 years old,Mocha,Light,Coffee D,Male
+25-34 years old,Mocha,Dark,Coffee B,Male
+35-44 years old,Cappuccino,Light,Coffee C,Male
+25-34 years old,Latte,Dark,Coffee D,Female
+45-54 years old,Other,Medium,Coffee B,Female
+25-34 years old,Regular drip coffee,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee C,Female
+35-44 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Non-binary
+35-44 years old,Pourover,Light,Coffee A,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+>65 years old,Espresso,Dark,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Dark,Coffee B,Male
+25-34 years old,Americano,Dark,Coffee B,Male
+18-24 years old,Espresso,Medium,Coffee D,Female
+35-44 years old,Cappuccino,Dark,Coffee B,Female
+18-24 years old,Regular drip coffee,Light,Coffee A,Male
+35-44 years old,Cortado,Light,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Other,Medium,Coffee A,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Iced coffee,Medium,Coffee C,Male
+25-34 years old,Latte,Light,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+25-34 years old,Pourover,Nordic,Coffee D,Non-binary
+25-34 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Cappuccino,Light,Coffee D,Female
+18-24 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Other,Medium,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Pourover,Blonde,Coffee D,Male
+>65 years old,Regular drip coffee,Dark,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Cold brew,Medium,Coffee A,Female
+18-24 years old,Iced coffee,Nordic,Coffee C,Male
+18-24 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Female
+18-24 years old,Espresso,Light,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Cappuccino,Light,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee B,Male
+18-24 years old,Latte,Medium,Coffee B,Male
+55-64 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Female
+35-44 years old,Cappuccino,Blonde,Coffee A,Female
+18-24 years old,Pourover,Dark,Coffee C,Female
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+25-34 years old,Espresso,Dark,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee B,Female
+35-44 years old,Pourover,Nordic,Coffee C,Male
+>65 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Latte,Blonde,Coffee B,Female
+18-24 years old,Americano,Medium,Coffee C,Male
+18-24 years old,Latte,Light,Coffee A,Female
+25-34 years old,Americano,Medium,Coffee A,Female
+55-64 years old,Cappuccino,Dark,Coffee C,Male
+35-44 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Mocha,Medium,Coffee D,Female
+25-34 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+18-24 years old,Latte,Dark,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Mocha,Light,Coffee A,Male
+35-44 years old,Espresso,Light,Coffee A,Male
+18-24 years old,Americano,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+45-54 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Light,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee C,Male
+35-44 years old,Iced coffee,Medium,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Non-binary
+45-54 years old,Americano,French,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Latte,Light,Coffee C,Female
+55-64 years old,Other,Blonde,Coffee C,Male
+18-24 years old,Iced coffee,Light,Coffee D,Male
+55-64 years old,Americano,Light,Coffee A,Female
+45-54 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Pourover,Nordic,Coffee A,Male
+55-64 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Dark,Coffee C,Female
+18-24 years old,Latte,Medium,Coffee A,Other (please specify)
+35-44 years old,Espresso,Light,Coffee A,Male
+<18 years old,Latte,Light,Coffee A,Male
+55-64 years old,Espresso,Medium,Coffee C,Male
+45-54 years old,Latte,Medium,Coffee B,Male
+35-44 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Latte,Medium,Coffee B,Non-binary
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+55-64 years old,Regular drip coffee,Medium,Coffee C,Female
+35-44 years old,Blended drink (e.g. Frappuccino),French,Coffee B,Female
+>65 years old,Mocha,Medium,Coffee A,Male
+45-54 years old,Cappuccino,Dark,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Mocha,Dark,Coffee B,Male
+55-64 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee D,Male
+18-24 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Cortado,Dark,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Americano,Dark,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Regular drip coffee,Dark,Coffee C,Female
+35-44 years old,Cortado,Medium,Coffee A,Male
+>65 years old,Regular drip coffee,Light,Coffee D,Female
+25-34 years old,Cortado,Medium,Coffee D,Female
+35-44 years old,Regular drip coffee,Light,Coffee A,Female
+25-34 years old,Latte,Light,Coffee A,Prefer not to say
+25-34 years old,Latte,Dark,Coffee B,Female
+35-44 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Other,Light,Coffee C,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Other,Dark,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+55-64 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+18-24 years old,Americano,Dark,Coffee A,Male
+25-34 years old,Cold brew,Dark,Coffee C,Male
+45-54 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee A,Prefer not to say
+25-34 years old,Mocha,Dark,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+18-24 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+18-24 years old,Cortado,Dark,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Iced coffee,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Other,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+45-54 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Mocha,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Light,Coffee D,Female
+35-44 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Mocha,Light,Coffee B,Male
+45-54 years old,Pourover,Light,Coffee B,Female
+25-34 years old,Other,Medium,Coffee A,Male
+25-34 years old,Mocha,Dark,Coffee A,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+55-64 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+18-24 years old,Americano,Light,Coffee A,Male
+35-44 years old,Americano,Light,Coffee D,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Light,Coffee A,Male
+25-34 years old,Iced coffee,Medium,Coffee A,Female
+45-54 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+35-44 years old,Latte,Dark,Coffee C,Female
+>65 years old,Cappuccino,Light,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee C,Female
+35-44 years old,Latte,Medium,Coffee C,Male
+35-44 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+18-24 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Medium,Coffee B,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Light,Coffee C,Female
+35-44 years old,Regular drip coffee,Light,Coffee B,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+18-24 years old,Latte,Dark,Coffee B,Male
+35-44 years old,Latte,Light,Coffee D,Female
+35-44 years old,Latte,Medium,Coffee B,Male
+18-24 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Pourover,Nordic,Coffee D,Female
+45-54 years old,Regular drip coffee,Light,Coffee B,Female
+35-44 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Espresso,Dark,Coffee B,Male
+55-64 years old,Mocha,Medium,Coffee C,Male
+>65 years old,Pourover,Medium,Coffee B,Female
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+55-64 years old,Regular drip coffee,Medium,Coffee A,Female
+35-44 years old,Cappuccino,Medium,Coffee B,Male
+55-64 years old,Americano,Medium,Coffee C,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Other,Light,Coffee B,Female
+25-34 years old,Latte,Italian,Coffee B,Female
+45-54 years old,Espresso,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cappuccino,Light,Coffee D,Female
+25-34 years old,Espresso,Light,Coffee C,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Dark,Coffee C,Female
+25-34 years old,Mocha,Medium,Coffee D,Female
+25-34 years old,Americano,Light,Coffee D,Male
+18-24 years old,Cortado,Light,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee C,Male
+35-44 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Female
+25-34 years old,Latte,Light,Coffee A,Female
+45-54 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Mocha,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+25-34 years old,Americano,Medium,Coffee D,Male
+55-64 years old,Regular drip coffee,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Italian,Coffee B,Male
+25-34 years old,Pourover,Dark,Coffee D,Male
+18-24 years old,Cold brew,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Female
+55-64 years old,Regular drip coffee,Medium,Coffee C,Female
+25-34 years old,Pourover,Blonde,Coffee C,Male
+55-64 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+18-24 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Other,Medium,Coffee D,Non-binary
+25-34 years old,Cappuccino,Light,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Cappuccino,Light,Coffee A,Male
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Regular drip coffee,Medium,Coffee B,Female
+35-44 years old,Iced coffee,Medium,Coffee B,Male
+25-34 years old,Cappuccino,Light,Coffee B,Prefer not to say
+25-34 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Mocha,Medium,Coffee A,Male
+35-44 years old,Latte,Light,Coffee B,Female
+18-24 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Iced coffee,Dark,Coffee D,Female
+45-54 years old,Regular drip coffee,Light,Coffee A,Prefer not to say
+55-64 years old,Pourover,Light,Coffee D,Female
+25-34 years old,Iced coffee,Dark,Coffee C,Male
+18-24 years old,Iced coffee,Medium,Coffee B,Prefer not to say
+25-34 years old,Americano,Light,Coffee D,Male
+18-24 years old,Pourover,Blonde,Coffee A,Female
+35-44 years old,Latte,Light,Coffee D,Female
+25-34 years old,Iced coffee,Medium,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Iced coffee,Dark,Coffee D,Male
+25-34 years old,Pourover,Blonde,Coffee D,Female
+35-44 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Latte,Light,Coffee B,Female
+35-44 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Non-binary
+35-44 years old,Cold brew,Medium,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Iced coffee,Medium,Coffee A,Female
+25-34 years old,Cortado,Light,Coffee A,Female
+35-44 years old,Mocha,Dark,Coffee C,Female
+25-34 years old,Pourover,Dark,Coffee C,Female
+35-44 years old,Regular drip coffee,Blonde,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Latte,Light,Coffee B,Male
+>65 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Cold brew,Dark,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+45-54 years old,Cappuccino,Medium,Coffee B,Female
+55-64 years old,Other,Dark,Coffee B,Prefer not to say
+35-44 years old,Latte,Medium,Coffee D,Male
+35-44 years old,Espresso,Blonde,Coffee D,Female
+25-34 years old,Other,Light,Coffee D,Female
+35-44 years old,Other,Medium,Coffee D,Female
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Female
+35-44 years old,Cappuccino,Light,Coffee B,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee A,Prefer not to say
+25-34 years old,Pourover,Medium,Coffee B,Female
+25-34 years old,Other,Light,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee D,Male
+25-34 years old,Other,Medium,Coffee B,Male
+25-34 years old,Blended drink (e.g. Frappuccino),Medium,Coffee C,Female
+55-64 years old,Pourover,Light,Coffee D,Prefer not to say
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee B,Male
+18-24 years old,Americano,Dark,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee A,Male
+25-34 years old,Mocha,Medium,Coffee C,Male
+45-54 years old,Other,Light,Coffee C,Male
+35-44 years old,Cappuccino,Dark,Coffee B,Male
+45-54 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Cortado,Light,Coffee D,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+45-54 years old,Regular drip coffee,Medium,Coffee C,Female
+45-54 years old,Cappuccino,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee A,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Blonde,Coffee B,Female
+45-54 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee B,Male
+35-44 years old,Cortado,Light,Coffee C,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+45-54 years old,Espresso,Light,Coffee D,Male
+45-54 years old,Latte,Blonde,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Other,Light,Coffee D,Female
+25-34 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+35-44 years old,Latte,Light,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Cold brew,Light,Coffee D,Male
+35-44 years old,Espresso,Light,Coffee B,Male
+35-44 years old,Latte,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee D,Male
+>65 years old,Regular drip coffee,Medium,Coffee A,Male
+35-44 years old,Regular drip coffee,Light,Coffee C,Male
+18-24 years old,Cortado,Medium,Coffee A,Male
+25-34 years old,Americano,Blonde,Coffee D,Male
+18-24 years old,Cortado,Medium,Coffee C,Male
+25-34 years old,Mocha,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+18-24 years old,Latte,Dark,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee D,Male
+25-34 years old,Other,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Blonde,Coffee A,Male
+35-44 years old,Regular drip coffee,Medium,Coffee C,Male
+55-64 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+18-24 years old,Espresso,Light,Coffee C,Male
+35-44 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Medium,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+55-64 years old,Americano,Medium,Coffee A,Male
+35-44 years old,Latte,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Cortado,Light,Coffee C,Male
+25-34 years old,Cappuccino,Medium,Coffee D,Male
+55-64 years old,Regular drip coffee,Dark,Coffee D,Female
+25-34 years old,Cappuccino,Medium,Coffee D,Prefer not to say
+25-34 years old,Cortado,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Cold brew,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Cortado,Blonde,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+25-34 years old,Other,Medium,Coffee C,Male
+25-34 years old,Latte,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Medium,Coffee A,Female
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Mocha,Medium,Coffee A,Female
+45-54 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Latte,Light,Coffee B,Female
+18-24 years old,Mocha,Medium,Coffee C,Male
+18-24 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee B,Non-binary
+35-44 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Cappuccino,Medium,Coffee C,Male
+55-64 years old,Pourover,Light,Coffee D,Male
+45-54 years old,Regular drip coffee,Medium,Coffee B,Female
+25-34 years old,Latte,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Female
+25-34 years old,Cappuccino,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Female
+18-24 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+55-64 years old,Pourover,Blonde,Coffee B,Male
+25-34 years old,Latte,Medium,Coffee C,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Espresso,Medium,Coffee C,Male
+18-24 years old,Latte,Light,Coffee A,Female
+25-34 years old,Iced coffee,Medium,Coffee A,Female
+25-34 years old,Latte,Medium,Coffee C,Male
+25-34 years old,Cappuccino,Light,Coffee B,Male
+25-34 years old,Regular drip coffee,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Mocha,Medium,Coffee A,Female
+>65 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Nordic,Coffee D,Male
+25-34 years old,Pourover,Nordic,Coffee C,Male
+35-44 years old,Cappuccino,Blonde,Coffee A,Male
+35-44 years old,Cortado,Medium,Coffee C,Male
+45-54 years old,Americano,Italian,Coffee B,Female
+35-44 years old,Cold brew,Dark,Coffee A,Female
+45-54 years old,Americano,Italian,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Other,Light,Coffee B,Male
+45-54 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Americano,Light,Coffee D,Male
+55-64 years old,Cappuccino,Medium,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee D,Prefer not to say
+25-34 years old,Pourover,Medium,Coffee C,Male
+25-34 years old,Latte,Blonde,Coffee A,Female
+25-34 years old,Regular drip coffee,Medium,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee C,Male
+35-44 years old,Other,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee A,Male
+35-44 years old,Cappuccino,Light,Coffee B,Female
+18-24 years old,Espresso,Light,Coffee B,Male
+25-34 years old,Latte,Light,Coffee D,Female
+25-34 years old,Latte,Light,Coffee D,Male
+35-44 years old,Latte,Light,Coffee D,Female
+55-64 years old,Cappuccino,Light,Coffee C,Female
+35-44 years old,Cappuccino,Medium,Coffee B,Female
+25-34 years old,Cappuccino,Medium,Coffee B,Male
+45-54 years old,Regular drip coffee,Medium,Coffee A,Male
+25-34 years old,Cortado,Light,Coffee D,Male
+25-34 years old,Iced coffee,Light,Coffee C,Female
+25-34 years old,Iced coffee,Light,Coffee A,Male
+25-34 years old,Cold brew,Light,Coffee B,Male
+25-34 years old,Espresso,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+35-44 years old,Latte,Light,Coffee A,Male
+35-44 years old,Latte,Italian,Coffee C,Male
+55-64 years old,Latte,Dark,Coffee C,Female
+18-24 years old,Regular drip coffee,Light,Coffee D,Male
+18-24 years old,Blended drink (e.g. Frappuccino),Dark,Coffee B,Male
+35-44 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Female
+35-44 years old,Pourover,Medium,Coffee A,Female
+25-34 years old,Latte,Light,Coffee C,Male
+>65 years old,Pourover,Nordic,Coffee A,Male
+25-34 years old,Espresso,Dark,Coffee D,Male
+35-44 years old,Latte,Dark,Coffee B,Male
+25-34 years old,Americano,Light,Coffee D,Female
+25-34 years old,Blended drink (e.g. Frappuccino),Light,Coffee D,Male
+18-24 years old,Americano,Light,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee D,Male
+35-44 years old,Cortado,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Regular drip coffee,Medium,Coffee D,Male
+18-24 years old,Cappuccino,Medium,Coffee A,Non-binary
+25-34 years old,Pourover,Light,Coffee A,Male
+45-54 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Cortado,Light,Coffee B,Male
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Espresso,Light,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Regular drip coffee,Light,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee C,Male
+35-44 years old,Pourover,Light,Coffee B,Female
+45-54 years old,Latte,Medium,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee D,Female
+35-44 years old,Pourover,Light,Coffee D,Female
+35-44 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+35-44 years old,Pourover,Medium,Coffee C,Non-binary
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee C,Male
+18-24 years old,Pourover,Light,Coffee D,Prefer not to say
+35-44 years old,Pourover,Dark,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+35-44 years old,Pourover,Nordic,Coffee A,Male
+35-44 years old,Espresso,Medium,Coffee C,Male
+18-24 years old,Cappuccino,Medium,Coffee B,Male
+18-24 years old,Americano,Medium,Coffee B,Female
+35-44 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Dark,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee B,Male
+25-34 years old,Regular drip coffee,Light,Coffee D,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Latte,Medium,Coffee B,Female
+18-24 years old,Cortado,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Espresso,Light,Coffee B,Male
+45-54 years old,Americano,Medium,Coffee C,Male
+45-54 years old,Mocha,Dark,Coffee C,Female
+35-44 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee D,Female
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Espresso,Light,Coffee A,Male
+45-54 years old,Cortado,Light,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee B,Non-binary
+25-34 years old,Espresso,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee C,Non-binary
+18-24 years old,Espresso,Medium,Coffee D,Male
+18-24 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Male
+45-54 years old,Regular drip coffee,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee C,Male
+25-34 years old,Regular drip coffee,Light,Coffee B,Male
+35-44 years old,Blended drink (e.g. Frappuccino),Medium,Coffee A,Male
+25-34 years old,Cold brew,Medium,Coffee D,Female
+35-44 years old,Cortado,Medium,Coffee A,Female
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Pourover,Light,Coffee D,Male
+25-34 years old,Latte,Light,Coffee A,Male
+18-24 years old,Latte,Light,Coffee A,Male
+45-54 years old,Latte,Light,Coffee B,Male
+35-44 years old,Regular drip coffee,Dark,Coffee D,Male
+25-34 years old,Latte,Medium,Coffee A,Female
+35-44 years old,Regular drip coffee,Light,Coffee A,Non-binary
+25-34 years old,Other,Light,Coffee A,Male
+25-34 years old,Mocha,Italian,Coffee D,Male
+55-64 years old,Americano,Dark,Coffee C,Male
+25-34 years old,Pourover,Medium,Coffee D,Male
+25-34 years old,Pourover,Medium,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+25-34 years old,Cortado,Medium,Coffee D,Male
+35-44 years old,Regular drip coffee,Medium,Coffee B,Male
+25-34 years old,Americano,Medium,Coffee D,Male
+35-44 years old,Americano,Medium,Coffee C,Male
+25-34 years old,Pourover,Light,Coffee A,Male
+18-24 years old,Espresso,Dark,Coffee A,Prefer not to say
+25-34 years old,Cappuccino,Medium,Coffee D,Female
+>65 years old,Regular drip coffee,Medium,Coffee A,Female
+>65 years old,Regular drip coffee,Light,Coffee A,Male
+18-24 years old,Latte,Light,Coffee C,Male
+25-34 years old,Iced coffee,Medium,Coffee A,Male
+25-34 years old,Latte,Medium,Coffee A,Female
